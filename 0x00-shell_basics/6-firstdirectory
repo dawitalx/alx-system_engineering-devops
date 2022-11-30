@@ -1,3 +1,7 @@
 #!/bin/bash
+<<<<<<< HEAD
 mkdir /tmp/my_first_directory
 
+=======
+mkdir my_first_directory /tmp/
+>>>>>>> 5c04c060622545c0bc7bd686004030c478e6f5fe
