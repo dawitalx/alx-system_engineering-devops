@@ -1,2 +1,3 @@
 #!/bin/bash
-local BEST=School
+set BEST="School" | echo $BEST
+
