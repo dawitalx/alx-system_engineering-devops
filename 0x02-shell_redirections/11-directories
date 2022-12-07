@@ -1,6 +1,3 @@
 #!/bin/bash
-find ./ -type d | wc -l
-<<<<<<< HEAD
+find . -mindepth 1 -type d | wc -l
 
-=======
->>>>>>> 58a0c1500f28636da7f59d250dd6a045a0e547ed
